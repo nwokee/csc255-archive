@@ -1,0 +1,279 @@
+n = 10
+***********************************************************
+The time to do the bubbleSort was: 0.0003ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 238335
+At index 1 there is key 289383
+At index 2 there is key 516649
+At index 3 there is key 636915
+At index 4 there is key 641421
+At index 5 there is key 692777
+At index 6 there is key 747793
+At index 7 there is key 760492
+At index 8 there is key 885386
+At index 9 there is key 930886
+***********************************************************
+The time to do the selectionSort was: 0.0003ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 238335
+At index 1 there is key 289383
+At index 2 there is key 516649
+At index 3 there is key 636915
+At index 4 there is key 641421
+At index 5 there is key 692777
+At index 6 there is key 747793
+At index 7 there is key 760492
+At index 8 there is key 885386
+At index 9 there is key 930886
+***********************************************************
+The time to do the insertionSort was: 0.0002ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 238335
+At index 1 there is key 289383
+At index 2 there is key 516649
+At index 3 there is key 636915
+At index 4 there is key 641421
+At index 5 there is key 692777
+At index 6 there is key 747793
+At index 7 there is key 760492
+At index 8 there is key 885386
+At index 9 there is key 930886
+***********************************************************
+The time to do the heapSort was: 0.0004ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 238335
+At index 1 there is key 289383
+At index 2 there is key 516649
+At index 3 there is key 636915
+At index 4 there is key 641421
+At index 5 there is key 692777
+At index 6 there is key 747793
+At index 7 there is key 760492
+At index 8 there is key 885386
+At index 9 there is key 930886
+***********************************************************
+The time to do the mergeSort was: 0.0019ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 238335
+At index 1 there is key 289383
+At index 2 there is key 516649
+At index 3 there is key 636915
+At index 4 there is key 641421
+At index 5 there is key 692777
+At index 6 there is key 747793
+At index 7 there is key 760492
+At index 8 there is key 885386
+At index 9 there is key 930886
+***********************************************************
+The time to do the quickSort was: 0.0005ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 238335
+At index 1 there is key 289383
+At index 2 there is key 516649
+At index 3 there is key 636915
+At index 4 there is key 641421
+At index 5 there is key 692777
+At index 6 there is key 747793
+At index 7 there is key 760492
+At index 8 there is key 885386
+At index 9 there is key 930886
+n = 300
+***********************************************************
+The time to do the bubbleSort was: 0.0671ms
+The list is sorted
+Printing 10 of 300 entries
+At index 0 there is key 2245
+At index 1 there is key 2904
+At index 2 there is key 5211
+At index 3 there is key 18456
+At index 4 there is key 21530
+At index 5 there is key 23311
+At index 6 there is key 28624
+At index 7 there is key 35568
+At index 8 there is key 36029
+At index 9 there is key 43324
+Printing 1 of 300 entries backwards
+At index 299 there is key 999932
+***********************************************************
+The time to do the selectionSort was: 0.0326ms
+The list is sorted
+Printing 10 of 300 entries
+At index 0 there is key 2245
+At index 1 there is key 2904
+At index 2 there is key 5211
+At index 3 there is key 18456
+At index 4 there is key 21530
+At index 5 there is key 23311
+At index 6 there is key 28624
+At index 7 there is key 35568
+At index 8 there is key 36029
+At index 9 there is key 43324
+Printing 1 of 300 entries backwards
+At index 299 there is key 999932
+***********************************************************
+The time to do the insertionSort was: 0.0115ms
+The list is sorted
+Printing 10 of 300 entries
+At index 0 there is key 2245
+At index 1 there is key 2904
+At index 2 there is key 5211
+At index 3 there is key 18456
+At index 4 there is key 21530
+At index 5 there is key 23311
+At index 6 there is key 28624
+At index 7 there is key 35568
+At index 8 there is key 36029
+At index 9 there is key 43324
+Printing 1 of 300 entries backwards
+At index 299 there is key 999932
+***********************************************************
+The time to do the heapSort was: 0.0105ms
+The list is sorted
+Printing 10 of 300 entries
+At index 0 there is key 2245
+At index 1 there is key 2904
+At index 2 there is key 5211
+At index 3 there is key 18456
+At index 4 there is key 21530
+At index 5 there is key 23311
+At index 6 there is key 28624
+At index 7 there is key 35568
+At index 8 there is key 36029
+At index 9 there is key 43324
+Printing 1 of 300 entries backwards
+At index 299 there is key 999932
+***********************************************************
+The time to do the mergeSort was: 0.0546ms
+The list is sorted
+Printing 10 of 300 entries
+At index 0 there is key 2245
+At index 1 there is key 2904
+At index 2 there is key 5211
+At index 3 there is key 18456
+At index 4 there is key 21530
+At index 5 there is key 23311
+At index 6 there is key 28624
+At index 7 there is key 35568
+At index 8 there is key 36029
+At index 9 there is key 43324
+Printing 1 of 300 entries backwards
+At index 299 there is key 999932
+***********************************************************
+The time to do the quickSort was: 0.0151ms
+The list is sorted
+Printing 10 of 300 entries
+At index 0 there is key 2245
+At index 1 there is key 2904
+At index 2 there is key 5211
+At index 3 there is key 18456
+At index 4 there is key 21530
+At index 5 there is key 23311
+At index 6 there is key 28624
+At index 7 there is key 35568
+At index 8 there is key 36029
+At index 9 there is key 43324
+Printing 1 of 300 entries backwards
+At index 299 there is key 999932
+n = 40000
+***********************************************************
+The time to do the bubbleSort was: 1607.89ms
+The list is sorted
+Printing 10 of 40000 entries
+At index 0 there is key 3
+At index 1 there is key 13
+At index 2 there is key 26
+At index 3 there is key 64
+At index 4 there is key 81
+At index 5 there is key 91
+At index 6 there is key 93
+At index 7 there is key 196
+At index 8 there is key 214
+At index 9 there is key 262
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999960
+***********************************************************
+The time to do the selectionSort was: 224.523ms
+The list is sorted
+Printing 10 of 40000 entries
+At index 0 there is key 3
+At index 1 there is key 13
+At index 2 there is key 26
+At index 3 there is key 64
+At index 4 there is key 81
+At index 5 there is key 91
+At index 6 there is key 93
+At index 7 there is key 196
+At index 8 there is key 214
+At index 9 there is key 262
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999960
+***********************************************************
+The time to do the insertionSort was: 90.4319ms
+The list is sorted
+Printing 10 of 40000 entries
+At index 0 there is key 3
+At index 1 there is key 13
+At index 2 there is key 26
+At index 3 there is key 64
+At index 4 there is key 81
+At index 5 there is key 91
+At index 6 there is key 93
+At index 7 there is key 196
+At index 8 there is key 214
+At index 9 there is key 262
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999960
+***********************************************************
+The time to do the heapSort was: 1.8924ms
+The list is sorted
+Printing 10 of 40000 entries
+At index 0 there is key 3
+At index 1 there is key 13
+At index 2 there is key 26
+At index 3 there is key 64
+At index 4 there is key 81
+At index 5 there is key 91
+At index 6 there is key 93
+At index 7 there is key 196
+At index 8 there is key 214
+At index 9 there is key 262
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999960
+***********************************************************
+The time to do the mergeSort was: 6.951ms
+The list is sorted
+Printing 10 of 40000 entries
+At index 0 there is key 3
+At index 1 there is key 13
+At index 2 there is key 26
+At index 3 there is key 64
+At index 4 there is key 81
+At index 5 there is key 91
+At index 6 there is key 93
+At index 7 there is key 196
+At index 8 there is key 214
+At index 9 there is key 262
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999960
+***********************************************************
+The time to do the quickSort was: 2.0124ms
+The list is sorted
+Printing 10 of 40000 entries
+At index 0 there is key 3
+At index 1 there is key 13
+At index 2 there is key 26
+At index 3 there is key 64
+At index 4 there is key 81
+At index 5 there is key 91
+At index 6 there is key 93
+At index 7 there is key 196
+At index 8 there is key 214
+At index 9 there is key 262
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999960

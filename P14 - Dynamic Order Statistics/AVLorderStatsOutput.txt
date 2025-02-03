@@ -1,0 +1,52 @@
+Key not inserted:  22
+Key not inserted:  20
+Key not inserted:  15
+Tree count is 14
+Tree contents are: 
+At 0 the value is (5,1006): height = 1
+At 1 the value is (10,1001): height = 2
+At 2 the value is (15,1007): height = 3
+At 3 the value is (17,1013): height = 1
+At 4 the value is (20,1003): height = 2
+At 5 the value is (22,1008): height = 1
+At 6 the value is (30,1005): height = 5
+At 7 the value is (33,1012): height = 2
+At 8 the value is (44,1017): height = 1
+At 9 the value is (45,1010): height = 3
+At 10 the value is (48,1011): height = 1
+At 11 the value is (50,1002): height = 4
+At 12 the value is (52,1004): height = 2
+At 13 the value is (60,1009): height = 1
+There is no key at rank -2
+There is no key at rank -1
+There is no key at rank 0
+The key at rank 1 is 5
+  And the value is 1006
+The key at rank 2 is 10
+  And the value is 1001
+The key at rank 3 is 15
+  And the value is 1007
+The key at rank 4 is 17
+  And the value is 1013
+The key at rank 5 is 20
+  And the value is 1003
+The key at rank 6 is 22
+  And the value is 1008
+The key at rank 7 is 30
+  And the value is 1005
+The key at rank 8 is 33
+  And the value is 1012
+The key at rank 9 is 44
+  And the value is 1017
+The key at rank 10 is 45
+  And the value is 1010
+The key at rank 11 is 48
+  And the value is 1011
+The key at rank 12 is 50
+  And the value is 1002
+The key at rank 13 is 52
+  And the value is 1004
+The key at rank 14 is 60
+  And the value is 1009
+There is no key at rank 15
+There is no key at rank 16

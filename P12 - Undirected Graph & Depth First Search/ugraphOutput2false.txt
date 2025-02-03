@@ -1,0 +1,60 @@
+addEdge(10,20,4) returned: True
+addEdge(30,40,4) returned: True
+Graph info:
+  Graph capacity = 40
+  vCount = 4
+  eCount = 2
+
+Graph contents:
+  Node(0,10):  0  4  0  0
+  Node(1,20):  4  0  0  0
+  Node(2,30):  0  0  0  4
+  Node(3,40):  0  0  4  0
+Degree table (normal, in, out)
+  Node(0,10):     1, -1, -1
+  Node(1,20):     1, -1, -1
+  Node(2,30):     1, -1, -1
+  Node(3,40):     1, -1, -1
+Path from 10 to 10
+10 
+Path from 10 to 20
+10 20 
+Path from 10 to 30
+No path from 10 to 30 exists.
+
+Path from 10 to 40
+No path from 10 to 40 exists.
+
+Path from 20 to 10
+20 10 
+Path from 20 to 20
+20 
+Path from 20 to 30
+No path from 20 to 30 exists.
+
+Path from 20 to 40
+No path from 20 to 40 exists.
+
+Path from 30 to 10
+No path from 30 to 10 exists.
+
+Path from 30 to 20
+No path from 30 to 20 exists.
+
+Path from 30 to 30
+30 
+Path from 30 to 40
+30 40 
+Path from 40 to 10
+No path from 40 to 10 exists.
+
+Path from 40 to 20
+No path from 40 to 20 exists.
+
+Path from 40 to 30
+40 30 
+Path from 40 to 40
+40 
+*** start of isCyclic output
+    The graph is acyclic
+*** end of isCyclic output

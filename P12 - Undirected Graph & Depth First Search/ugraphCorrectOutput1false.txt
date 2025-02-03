@@ -1,0 +1,109 @@
+createV(10) returned: True
+createV(20) returned: True
+createV(30) returned: True
+createV(40) returned: True
+createV(50) returned: True
+createV(60) returned: True
+addEdge(10,20,1) returned: True
+addEdge(20,40,3) returned: True
+addEdge(10,30,12) returned: True
+addEdge(20,30,9) returned: True
+addEdge(40,30,4) returned: True
+addEdge(30,50,5) returned: True
+addEdge(40,60,15) returned: True
+addEdge(40,50,13) returned: True
+addEdge(50,60,4) returned: True
+Graph info:
+  Graph capacity = 40
+  vCount = 6
+  eCount = 9
+
+Graph contents:
+  Node(0,10):  0  1 12  0  0  0
+  Node(1,20):  1  0  9  3  0  0
+  Node(2,30): 12  9  0  4  5  0
+  Node(3,40):  0  3  4  0 13 15
+  Node(4,50):  0  0  5 13  0  4
+  Node(5,60):  0  0  0 15  4  0
+Degree table (normal, in, out)
+  Node(0,10):     2, -1, -1
+  Node(1,20):     3, -1, -1
+  Node(2,30):     4, -1, -1
+  Node(3,40):     4, -1, -1
+  Node(4,50):     3, -1, -1
+  Node(5,60):     2, -1, -1
+Path from 10 to 10
+10 
+Path from 10 to 20
+10 20 
+Path from 10 to 30
+10 30 
+Path from 10 to 40
+10 20 40 
+Path from 10 to 50
+10 30 50 
+Path from 10 to 60
+10 20 40 60 
+Path from 20 to 10
+20 10 
+Path from 20 to 20
+20 
+Path from 20 to 30
+20 30 
+Path from 20 to 40
+20 40 
+Path from 20 to 50
+20 30 50 
+Path from 20 to 60
+20 40 60 
+Path from 30 to 10
+30 10 
+Path from 30 to 20
+30 20 
+Path from 30 to 30
+30 
+Path from 30 to 40
+30 40 
+Path from 30 to 50
+30 50 
+Path from 30 to 60
+30 40 60 
+Path from 40 to 10
+40 20 10 
+Path from 40 to 20
+40 20 
+Path from 40 to 30
+40 30 
+Path from 40 to 40
+40 
+Path from 40 to 50
+40 50 
+Path from 40 to 60
+40 60 
+Path from 50 to 10
+50 30 10 
+Path from 50 to 20
+50 30 20 
+Path from 50 to 30
+50 30 
+Path from 50 to 40
+50 40 
+Path from 50 to 50
+50 
+Path from 50 to 60
+50 60 
+Path from 60 to 10
+60 40 20 10 
+Path from 60 to 20
+60 40 20 
+Path from 60 to 30
+60 40 30 
+Path from 60 to 40
+60 40 
+Path from 60 to 50
+60 50 
+Path from 60 to 60
+60 
+*** start of isCyclic output
+    The graph is cyclic
+*** end of isCyclic output

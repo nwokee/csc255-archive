@@ -1,0 +1,158 @@
+n = 20
+***********************************************************
+The time to do the bubbleSort was: 0.0006ms
+The list is sorted
+Printing 20 of 20 entries
+At index 0 there is key 78705
+At index 1 there is key 118330
+At index 2 there is key 137366
+At index 3 there is key 158119
+At index 4 there is key 216262
+At index 5 there is key 268351
+At index 6 there is key 349752
+At index 7 there is key 377743
+At index 8 there is key 391529
+At index 9 there is key 417256
+At index 10 there is key 475508
+At index 11 there is key 546393
+At index 12 there is key 669700
+At index 13 there is key 699711
+At index 14 there is key 754108
+At index 15 there is key 765933
+At index 16 there is key 772843
+At index 17 there is key 887256
+At index 18 there is key 932169
+At index 19 there is key 957932
+Printing 1 of 20 entries backwards
+At index 19 there is key 957932
+***********************************************************
+The time to do the selectionSort was: 0.0006ms
+The list is sorted
+Printing 20 of 20 entries
+At index 0 there is key 78705
+At index 1 there is key 118330
+At index 2 there is key 137366
+At index 3 there is key 158119
+At index 4 there is key 216262
+At index 5 there is key 268351
+At index 6 there is key 349752
+At index 7 there is key 377743
+At index 8 there is key 391529
+At index 9 there is key 417256
+At index 10 there is key 475508
+At index 11 there is key 546393
+At index 12 there is key 669700
+At index 13 there is key 699711
+At index 14 there is key 754108
+At index 15 there is key 765933
+At index 16 there is key 772843
+At index 17 there is key 887256
+At index 18 there is key 932169
+At index 19 there is key 957932
+Printing 1 of 20 entries backwards
+At index 19 there is key 957932
+***********************************************************
+The time to do the insertionSort was: 0.0003ms
+The list is sorted
+Printing 20 of 20 entries
+At index 0 there is key 78705
+At index 1 there is key 118330
+At index 2 there is key 137366
+At index 3 there is key 158119
+At index 4 there is key 216262
+At index 5 there is key 268351
+At index 6 there is key 349752
+At index 7 there is key 377743
+At index 8 there is key 391529
+At index 9 there is key 417256
+At index 10 there is key 475508
+At index 11 there is key 546393
+At index 12 there is key 669700
+At index 13 there is key 699711
+At index 14 there is key 754108
+At index 15 there is key 765933
+At index 16 there is key 772843
+At index 17 there is key 887256
+At index 18 there is key 932169
+At index 19 there is key 957932
+Printing 1 of 20 entries backwards
+At index 19 there is key 957932
+n = 20000
+***********************************************************
+The time to do the bubbleSort was: 376.246ms
+The list is sorted
+Printing 20 of 20000 entries
+At index 0 there is key 29
+At index 1 there is key 255
+At index 2 there is key 347
+At index 3 there is key 369
+At index 4 there is key 438
+At index 5 there is key 504
+At index 6 there is key 513
+At index 7 there is key 513
+At index 8 there is key 587
+At index 9 there is key 618
+At index 10 there is key 666
+At index 11 there is key 684
+At index 12 there is key 811
+At index 13 there is key 814
+At index 14 there is key 874
+At index 15 there is key 1032
+At index 16 there is key 1175
+At index 17 there is key 1186
+At index 18 there is key 1200
+At index 19 there is key 1232
+Printing 1 of 20000 entries backwards
+At index 19999 there is key 999977
+***********************************************************
+The time to do the selectionSort was:   156ms
+The list is sorted
+Printing 20 of 20000 entries
+At index 0 there is key 29
+At index 1 there is key 255
+At index 2 there is key 347
+At index 3 there is key 369
+At index 4 there is key 438
+At index 5 there is key 504
+At index 6 there is key 513
+At index 7 there is key 513
+At index 8 there is key 587
+At index 9 there is key 618
+At index 10 there is key 666
+At index 11 there is key 684
+At index 12 there is key 811
+At index 13 there is key 814
+At index 14 there is key 874
+At index 15 there is key 1032
+At index 16 there is key 1175
+At index 17 there is key 1186
+At index 18 there is key 1200
+At index 19 there is key 1232
+Printing 1 of 20000 entries backwards
+At index 19999 there is key 999977
+***********************************************************
+The time to do the insertionSort was: 43.1346ms
+The list is sorted
+Printing 20 of 20000 entries
+At index 0 there is key 29
+At index 1 there is key 255
+At index 2 there is key 347
+At index 3 there is key 369
+At index 4 there is key 438
+At index 5 there is key 504
+At index 6 there is key 513
+At index 7 there is key 513
+At index 8 there is key 587
+At index 9 there is key 618
+At index 10 there is key 666
+At index 11 there is key 684
+At index 12 there is key 811
+At index 13 there is key 814
+At index 14 there is key 874
+At index 15 there is key 1032
+At index 16 there is key 1175
+At index 17 there is key 1186
+At index 18 there is key 1200
+At index 19 there is key 1232
+Printing 1 of 20000 entries backwards
+At index 19999 there is key 999977

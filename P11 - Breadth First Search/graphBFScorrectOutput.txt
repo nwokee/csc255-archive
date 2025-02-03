@@ -1,0 +1,232 @@
+createV(88) returned: True
+createV(44) returned: True
+addEdge(50,10,1) returned: True
+addEdge(10,15,1) returned: True
+addEdge(25,10,2) returned: True
+addEdge(33,50,2) returned: True
+addEdge(19,33,2) returned: True
+addEdge(14,19,2) returned: True
+addEdge(50,14,2) returned: True
+addEdge(14,14,2) returned: True
+addEdge(88,44,2) returned: True
+addEdge(88,14,1) returned: True
+addEdge(44,19,1) returned: True
+addEdge(50,33,1) returned: True
+addEdge(10,25,1) returned: True
+addEdge(15,15,1) returned: True
+addEdge(25,10,1) returned: False
+addEdge(33,50,1) returned: False
+addEdge(19,44,1) returned: True
+addEdge(14,88,1) returned: True
+addEdge(14,88,2) returned: False
+deleteEdge(14,19) returned: True
+deleteEdge(22,19) returned: False
+createV(50) returned: False
+addEdge(99,99,0) returned: False
+Graph info:
+  Graph capacity = 40
+  vCount = 9
+  eCount = 15
+
+Graph contents:
+  Node(0,88): 0 2 0 0 0 0 0 0 1
+  Node(1,44): 0 0 0 0 0 0 0 1 0
+  Node(2,50): 0 0 0 1 0 0 1 0 2
+  Node(3,10): 0 0 0 0 1 1 0 0 0
+  Node(4,15): 0 0 0 0 1 0 0 0 0
+  Node(5,25): 0 0 0 2 0 0 0 0 0
+  Node(6,33): 0 0 2 0 0 0 0 0 0
+  Node(7,19): 0 1 0 0 0 0 2 0 0
+  Node(8,14): 1 0 0 0 0 0 0 0 2
+Degree table (in, out)
+  Node(0,88): 1, 2
+  Node(1,44): 2, 1
+  Node(2,50): 1, 3
+  Node(3,10): 2, 2
+  Node(4,15): 2, 1
+  Node(5,25): 1, 1
+  Node(6,33): 2, 1
+  Node(7,19): 1, 2
+  Node(8,14): 3, 2
+Path from 88 to 88
+88 
+Path from 88 to 44
+88 44 
+Path from 88 to 50
+88 44 19 33 50 
+Path from 88 to 10
+88 44 19 33 50 10 
+Path from 88 to 15
+88 44 19 33 50 10 15 
+Path from 88 to 25
+88 44 19 33 50 10 25 
+Path from 88 to 33
+88 44 19 33 
+Path from 88 to 19
+88 44 19 
+Path from 88 to 14
+88 14 
+Path from 44 to 88
+44 19 33 50 14 88 
+Path from 44 to 44
+44 
+Path from 44 to 50
+44 19 33 50 
+Path from 44 to 10
+44 19 33 50 10 
+Path from 44 to 15
+44 19 33 50 10 15 
+Path from 44 to 25
+44 19 33 50 10 25 
+Path from 44 to 33
+44 19 33 
+Path from 44 to 19
+44 19 
+Path from 44 to 14
+44 19 33 50 14 
+Path from 50 to 88
+50 14 88 
+Path from 50 to 44
+50 14 88 44 
+Path from 50 to 50
+50 
+Path from 50 to 10
+50 10 
+Path from 50 to 15
+50 10 15 
+Path from 50 to 25
+50 10 25 
+Path from 50 to 33
+50 33 
+Path from 50 to 19
+50 14 88 44 19 
+Path from 50 to 14
+50 14 
+Path from 10 to 88
+No path from 10 to 88 exists.
+
+Path from 10 to 44
+No path from 10 to 44 exists.
+
+Path from 10 to 50
+No path from 10 to 50 exists.
+
+Path from 10 to 10
+10 
+Path from 10 to 15
+10 15 
+Path from 10 to 25
+10 25 
+Path from 10 to 33
+No path from 10 to 33 exists.
+
+Path from 10 to 19
+No path from 10 to 19 exists.
+
+Path from 10 to 14
+No path from 10 to 14 exists.
+
+Path from 15 to 88
+No path from 15 to 88 exists.
+
+Path from 15 to 44
+No path from 15 to 44 exists.
+
+Path from 15 to 50
+No path from 15 to 50 exists.
+
+Path from 15 to 10
+No path from 15 to 10 exists.
+
+Path from 15 to 15
+15 has a self loop
+Path from 15 to 25
+No path from 15 to 25 exists.
+
+Path from 15 to 33
+No path from 15 to 33 exists.
+
+Path from 15 to 19
+No path from 15 to 19 exists.
+
+Path from 15 to 14
+No path from 15 to 14 exists.
+
+Path from 25 to 88
+No path from 25 to 88 exists.
+
+Path from 25 to 44
+No path from 25 to 44 exists.
+
+Path from 25 to 50
+No path from 25 to 50 exists.
+
+Path from 25 to 10
+25 10 
+Path from 25 to 15
+25 10 15 
+Path from 25 to 25
+25 
+Path from 25 to 33
+No path from 25 to 33 exists.
+
+Path from 25 to 19
+No path from 25 to 19 exists.
+
+Path from 25 to 14
+No path from 25 to 14 exists.
+
+Path from 33 to 88
+33 50 14 88 
+Path from 33 to 44
+33 50 14 88 44 
+Path from 33 to 50
+33 50 
+Path from 33 to 10
+33 50 10 
+Path from 33 to 15
+33 50 10 15 
+Path from 33 to 25
+33 50 10 25 
+Path from 33 to 33
+33 
+Path from 33 to 19
+33 50 14 88 44 19 
+Path from 33 to 14
+33 50 14 
+Path from 19 to 88
+19 33 50 14 88 
+Path from 19 to 44
+19 44 
+Path from 19 to 50
+19 33 50 
+Path from 19 to 10
+19 33 50 10 
+Path from 19 to 15
+19 33 50 10 15 
+Path from 19 to 25
+19 33 50 10 25 
+Path from 19 to 33
+19 33 
+Path from 19 to 19
+19 
+Path from 19 to 14
+19 33 50 14 
+Path from 14 to 88
+14 88 
+Path from 14 to 44
+14 88 44 
+Path from 14 to 50
+14 88 44 19 33 50 
+Path from 14 to 10
+14 88 44 19 33 50 10 
+Path from 14 to 15
+14 88 44 19 33 50 10 15 
+Path from 14 to 25
+14 88 44 19 33 50 10 25 
+Path from 14 to 33
+14 88 44 19 33 
+Path from 14 to 19
+14 88 44 19 
+Path from 14 to 14
+14 has a self loop

@@ -1,0 +1,427 @@
+n = 10
+***********************************************************
+The time to do the bubbleSort was: 0.0002ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 158119
+At index 1 there is key 216262
+At index 2 there is key 349752
+At index 3 there is key 377743
+At index 4 there is key 391529
+At index 5 there is key 417256
+At index 6 there is key 475508
+At index 7 there is key 669700
+At index 8 there is key 765933
+At index 9 there is key 887256
+***********************************************************
+The time to do the selectionSort was: 0.0003ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 158119
+At index 1 there is key 216262
+At index 2 there is key 349752
+At index 3 there is key 377743
+At index 4 there is key 391529
+At index 5 there is key 417256
+At index 6 there is key 475508
+At index 7 there is key 669700
+At index 8 there is key 765933
+At index 9 there is key 887256
+***********************************************************
+The time to do the insertionSort was: 0.0002ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 158119
+At index 1 there is key 216262
+At index 2 there is key 349752
+At index 3 there is key 377743
+At index 4 there is key 391529
+At index 5 there is key 417256
+At index 6 there is key 475508
+At index 7 there is key 669700
+At index 8 there is key 765933
+At index 9 there is key 887256
+***********************************************************
+The time to do the heapSort was: 0.0003ms
+The list is sorted
+Printing 10 of 10 entries
+At index 0 there is key 158119
+At index 1 there is key 216262
+At index 2 there is key 349752
+At index 3 there is key 377743
+At index 4 there is key 391529
+At index 5 there is key 417256
+At index 6 there is key 475508
+At index 7 there is key 669700
+At index 8 there is key 765933
+At index 9 there is key 887256
+n = 300
+***********************************************************
+The time to do the bubbleSort was: 0.1135ms
+The list is sorted
+Printing 40 of 300 entries
+At index 0 there is key 814
+At index 1 there is key 3130
+At index 2 there is key 4055
+At index 3 there is key 11701
+At index 4 there is key 13197
+At index 5 there is key 19381
+At index 6 there is key 21905
+At index 7 there is key 26723
+At index 8 there is key 26995
+At index 9 there is key 30705
+At index 10 there is key 32868
+At index 11 there is key 33497
+At index 12 there is key 35572
+At index 13 there is key 40635
+At index 14 there is key 41954
+At index 15 there is key 43415
+At index 16 there is key 50470
+At index 17 there is key 55053
+At index 18 there is key 56430
+At index 19 there is key 59344
+At index 20 there is key 71900
+At index 21 there is key 78705
+At index 22 there is key 79172
+At index 23 there is key 79209
+At index 24 there is key 80107
+At index 25 there is key 82011
+At index 26 there is key 92596
+At index 27 there is key 95963
+At index 28 there is key 99306
+At index 29 there is key 103625
+At index 30 there is key 108467
+At index 31 there is key 115006
+At index 32 there is key 117085
+At index 33 there is key 118330
+At index 34 there is key 123473
+At index 35 there is key 126551
+At index 36 there is key 126604
+At index 37 there is key 127119
+At index 38 there is key 127595
+At index 39 there is key 130751
+Printing 1 of 300 entries backwards
+At index 299 there is key 998487
+***********************************************************
+The time to do the selectionSort was: 0.0405ms
+The list is sorted
+Printing 40 of 300 entries
+At index 0 there is key 814
+At index 1 there is key 3130
+At index 2 there is key 4055
+At index 3 there is key 11701
+At index 4 there is key 13197
+At index 5 there is key 19381
+At index 6 there is key 21905
+At index 7 there is key 26723
+At index 8 there is key 26995
+At index 9 there is key 30705
+At index 10 there is key 32868
+At index 11 there is key 33497
+At index 12 there is key 35572
+At index 13 there is key 40635
+At index 14 there is key 41954
+At index 15 there is key 43415
+At index 16 there is key 50470
+At index 17 there is key 55053
+At index 18 there is key 56430
+At index 19 there is key 59344
+At index 20 there is key 71900
+At index 21 there is key 78705
+At index 22 there is key 79172
+At index 23 there is key 79209
+At index 24 there is key 80107
+At index 25 there is key 82011
+At index 26 there is key 92596
+At index 27 there is key 95963
+At index 28 there is key 99306
+At index 29 there is key 103625
+At index 30 there is key 108467
+At index 31 there is key 115006
+At index 32 there is key 117085
+At index 33 there is key 118330
+At index 34 there is key 123473
+At index 35 there is key 126551
+At index 36 there is key 126604
+At index 37 there is key 127119
+At index 38 there is key 127595
+At index 39 there is key 130751
+Printing 1 of 300 entries backwards
+At index 299 there is key 998487
+***********************************************************
+The time to do the insertionSort was: 0.0111ms
+The list is sorted
+Printing 40 of 300 entries
+At index 0 there is key 814
+At index 1 there is key 3130
+At index 2 there is key 4055
+At index 3 there is key 11701
+At index 4 there is key 13197
+At index 5 there is key 19381
+At index 6 there is key 21905
+At index 7 there is key 26723
+At index 8 there is key 26995
+At index 9 there is key 30705
+At index 10 there is key 32868
+At index 11 there is key 33497
+At index 12 there is key 35572
+At index 13 there is key 40635
+At index 14 there is key 41954
+At index 15 there is key 43415
+At index 16 there is key 50470
+At index 17 there is key 55053
+At index 18 there is key 56430
+At index 19 there is key 59344
+At index 20 there is key 71900
+At index 21 there is key 78705
+At index 22 there is key 79172
+At index 23 there is key 79209
+At index 24 there is key 80107
+At index 25 there is key 82011
+At index 26 there is key 92596
+At index 27 there is key 95963
+At index 28 there is key 99306
+At index 29 there is key 103625
+At index 30 there is key 108467
+At index 31 there is key 115006
+At index 32 there is key 117085
+At index 33 there is key 118330
+At index 34 there is key 123473
+At index 35 there is key 126551
+At index 36 there is key 126604
+At index 37 there is key 127119
+At index 38 there is key 127595
+At index 39 there is key 130751
+Printing 1 of 300 entries backwards
+At index 299 there is key 998487
+***********************************************************
+The time to do the heapSort was: 0.0075ms
+The list is sorted
+Printing 40 of 300 entries
+At index 0 there is key 814
+At index 1 there is key 3130
+At index 2 there is key 4055
+At index 3 there is key 11701
+At index 4 there is key 13197
+At index 5 there is key 19381
+At index 6 there is key 21905
+At index 7 there is key 26723
+At index 8 there is key 26995
+At index 9 there is key 30705
+At index 10 there is key 32868
+At index 11 there is key 33497
+At index 12 there is key 35572
+At index 13 there is key 40635
+At index 14 there is key 41954
+At index 15 there is key 43415
+At index 16 there is key 50470
+At index 17 there is key 55053
+At index 18 there is key 56430
+At index 19 there is key 59344
+At index 20 there is key 71900
+At index 21 there is key 78705
+At index 22 there is key 79172
+At index 23 there is key 79209
+At index 24 there is key 80107
+At index 25 there is key 82011
+At index 26 there is key 92596
+At index 27 there is key 95963
+At index 28 there is key 99306
+At index 29 there is key 103625
+At index 30 there is key 108467
+At index 31 there is key 115006
+At index 32 there is key 117085
+At index 33 there is key 118330
+At index 34 there is key 123473
+At index 35 there is key 126551
+At index 36 there is key 126604
+At index 37 there is key 127119
+At index 38 there is key 127595
+At index 39 there is key 130751
+Printing 1 of 300 entries backwards
+At index 299 there is key 998487
+n = 40000
+***********************************************************
+The time to do the bubbleSort was: 1640.66ms
+The list is sorted
+Printing 40 of 40000 entries
+At index 0 there is key 29
+At index 1 there is key 127
+At index 2 there is key 150
+At index 3 there is key 184
+At index 4 there is key 199
+At index 5 there is key 239
+At index 6 there is key 252
+At index 7 there is key 255
+At index 8 there is key 277
+At index 9 there is key 280
+At index 10 there is key 292
+At index 11 there is key 300
+At index 12 there is key 340
+At index 13 there is key 347
+At index 14 there is key 369
+At index 15 there is key 438
+At index 16 there is key 467
+At index 17 there is key 504
+At index 18 there is key 513
+At index 19 there is key 513
+At index 20 there is key 587
+At index 21 there is key 589
+At index 22 there is key 618
+At index 23 there is key 640
+At index 24 there is key 649
+At index 25 there is key 655
+At index 26 there is key 666
+At index 27 there is key 684
+At index 28 there is key 719
+At index 29 there is key 809
+At index 30 there is key 811
+At index 31 there is key 814
+At index 32 there is key 871
+At index 33 there is key 874
+At index 34 there is key 919
+At index 35 there is key 950
+At index 36 there is key 1032
+At index 37 there is key 1064
+At index 38 there is key 1175
+At index 39 there is key 1186
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999977
+***********************************************************
+The time to do the selectionSort was: 586.546ms
+The list is sorted
+Printing 40 of 40000 entries
+At index 0 there is key 29
+At index 1 there is key 127
+At index 2 there is key 150
+At index 3 there is key 184
+At index 4 there is key 199
+At index 5 there is key 239
+At index 6 there is key 252
+At index 7 there is key 255
+At index 8 there is key 277
+At index 9 there is key 280
+At index 10 there is key 292
+At index 11 there is key 300
+At index 12 there is key 340
+At index 13 there is key 347
+At index 14 there is key 369
+At index 15 there is key 438
+At index 16 there is key 467
+At index 17 there is key 504
+At index 18 there is key 513
+At index 19 there is key 513
+At index 20 there is key 587
+At index 21 there is key 589
+At index 22 there is key 618
+At index 23 there is key 640
+At index 24 there is key 649
+At index 25 there is key 655
+At index 26 there is key 666
+At index 27 there is key 684
+At index 28 there is key 719
+At index 29 there is key 809
+At index 30 there is key 811
+At index 31 there is key 814
+At index 32 there is key 871
+At index 33 there is key 874
+At index 34 there is key 919
+At index 35 there is key 950
+At index 36 there is key 1032
+At index 37 there is key 1064
+At index 38 there is key 1175
+At index 39 there is key 1186
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999977
+***********************************************************
+The time to do the insertionSort was: 127.343ms
+The list is sorted
+Printing 40 of 40000 entries
+At index 0 there is key 29
+At index 1 there is key 127
+At index 2 there is key 150
+At index 3 there is key 184
+At index 4 there is key 199
+At index 5 there is key 239
+At index 6 there is key 252
+At index 7 there is key 255
+At index 8 there is key 277
+At index 9 there is key 280
+At index 10 there is key 292
+At index 11 there is key 300
+At index 12 there is key 340
+At index 13 there is key 347
+At index 14 there is key 369
+At index 15 there is key 438
+At index 16 there is key 467
+At index 17 there is key 504
+At index 18 there is key 513
+At index 19 there is key 513
+At index 20 there is key 587
+At index 21 there is key 589
+At index 22 there is key 618
+At index 23 there is key 640
+At index 24 there is key 649
+At index 25 there is key 655
+At index 26 there is key 666
+At index 27 there is key 684
+At index 28 there is key 719
+At index 29 there is key 809
+At index 30 there is key 811
+At index 31 there is key 814
+At index 32 there is key 871
+At index 33 there is key 874
+At index 34 there is key 919
+At index 35 there is key 950
+At index 36 there is key 1032
+At index 37 there is key 1064
+At index 38 there is key 1175
+At index 39 there is key 1186
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999977
+***********************************************************
+The time to do the heapSort was: 1.629ms
+The list is sorted
+Printing 40 of 40000 entries
+At index 0 there is key 29
+At index 1 there is key 127
+At index 2 there is key 150
+At index 3 there is key 184
+At index 4 there is key 199
+At index 5 there is key 239
+At index 6 there is key 252
+At index 7 there is key 255
+At index 8 there is key 277
+At index 9 there is key 280
+At index 10 there is key 292
+At index 11 there is key 300
+At index 12 there is key 340
+At index 13 there is key 347
+At index 14 there is key 369
+At index 15 there is key 438
+At index 16 there is key 467
+At index 17 there is key 504
+At index 18 there is key 513
+At index 19 there is key 513
+At index 20 there is key 587
+At index 21 there is key 589
+At index 22 there is key 618
+At index 23 there is key 640
+At index 24 there is key 649
+At index 25 there is key 655
+At index 26 there is key 666
+At index 27 there is key 684
+At index 28 there is key 719
+At index 29 there is key 809
+At index 30 there is key 811
+At index 31 there is key 814
+At index 32 there is key 871
+At index 33 there is key 874
+At index 34 there is key 919
+At index 35 there is key 950
+At index 36 there is key 1032
+At index 37 there is key 1064
+At index 38 there is key 1175
+At index 39 there is key 1186
+Printing 1 of 40000 entries backwards
+At index 39999 there is key 999977

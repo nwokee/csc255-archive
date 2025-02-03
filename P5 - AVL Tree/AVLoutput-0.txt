@@ -1,0 +1,49 @@
+Do Work #1 - START ********************
+Key not inserted:  22
+Key not inserted:  20
+Key not inserted:  15
+Tree count is 14
+Tree contents are: 
+At 0 the value is (5,1006): height = 1
+At 1 the value is (10,1001): height = 7
+At 2 the value is (15,1007): height = 2
+At 3 the value is (17,1013): height = 1
+At 4 the value is (20,1003): height = 5
+At 5 the value is (22,1008): height = 1
+At 6 the value is (30,1005): height = 4
+At 7 the value is (33,1012): height = 2
+At 8 the value is (44,1017): height = 1
+At 9 the value is (45,1010): height = 3
+At 10 the value is (48,1011): height = 1
+At 11 the value is (50,1002): height = 6
+At 12 the value is (52,1004): height = 2
+At 13 the value is (60,1009): height = 1
+
+Remove Count is 6
+Tree count is 8
+Tree contents are: 
+At 0 the value is (30,1005): height = 6
+At 1 the value is (33,1012): height = 4
+At 2 the value is (44,1017): height = 3
+At 3 the value is (45,1010): height = 2
+At 4 the value is (48,1011): height = 1
+At 5 the value is (50,1002): height = 5
+At 6 the value is (52,1004): height = 2
+At 7 the value is (60,1009): height = 1
+
+getValue for key 30 reports this value is in the tree: 1005
+getValue for key 44 reports this value is in the tree: 1017
+getValue for key 48 reports this value is in the tree: 1011
+getValue for key 50 reports this value is in the tree: 1002
+getValue for key 52 reports this value is in the tree: 1004
+getValue for key 60 reports this value is in the tree: 1009
+
+The cleared tree status:  count = 0
+The cleared tree contents follow:
+Do Work #1 - END   ********************
+Do Work #2 - START   ********************
+Tree(0) took 505.735 ms to insert.
+Tree(0) took 204.457 ms to do isIn().
+Tree(1) took 186.332 ms to insert.
+Tree(1) took 21131.9 ms to do isIn().
+Do Work #2 - END   ********************

@@ -1,0 +1,238 @@
+Printing 0 of 0 entries
+The size of the first list is 0
+
+insert of (0,383) got true
+add of (0,-382) got true
+insert of (1,886) got true
+add of (1,-885) got true
+insert of (2,777) got true
+add of (2,-776) got true
+insert of (3,915) got true
+add of (3,-914) got true
+insert of (4,793) got true
+add of (4,-792) got true
+insert of (5,335) got true
+add of (5,-334) got true
+insert of (6,386) got true
+add of (6,-385) got true
+insert of (7,492) got true
+add of (7,-491) got true
+insert of (8,649) got true
+add of (8,-648) got true
+insert of (9,421) got true
+add of (9,-420) got true
+
+we have this number of entries 20
+Printing 20 of 20 entries
+At index 0 there is (9,421)
+At index 1 there is (8,649)
+At index 2 there is (7,492)
+At index 3 there is (6,386)
+At index 4 there is (5,335)
+At index 5 there is (4,793)
+At index 6 there is (3,915)
+At index 7 there is (2,777)
+At index 8 there is (1,886)
+At index 9 there is (0,383)
+At index 10 there is (0,-382)
+At index 11 there is (1,-885)
+At index 12 there is (2,-776)
+At index 13 there is (3,-914)
+At index 14 there is (4,-792)
+At index 15 there is (5,-334)
+At index 16 there is (6,-385)
+At index 17 there is (7,-491)
+At index 18 there is (8,-648)
+At index 19 there is (9,-420)
+
+Printing 20 of 20 entries backwards
+At index 19 there is (9,-420)
+At index 18 there is (8,-648)
+At index 17 there is (7,-491)
+At index 16 there is (6,-385)
+At index 15 there is (5,-334)
+At index 14 there is (4,-792)
+At index 13 there is (3,-914)
+At index 12 there is (2,-776)
+At index 11 there is (1,-885)
+At index 10 there is (0,-382)
+At index 9 there is (0,383)
+At index 8 there is (1,886)
+At index 7 there is (2,777)
+At index 6 there is (3,915)
+At index 5 there is (4,793)
+At index 4 there is (5,335)
+At index 3 there is (6,386)
+At index 2 there is (7,492)
+At index 1 there is (8,649)
+At index 0 there is (9,421)
+
+insertAt(5, (100,362) got true
+
+insertAt(15, (111,27) got true
+
+insertAt(25, (222,690) got false
+
+insert((333,59) got true
+
+add((444,763) got true
+
+getIndex(7) returned 3
+
+getIndex(50) returned -1
+
+The list has this many entries 24
+The list has this capacity 100
+
+readAt(4, key) got true and (6,386
+
+readAt(-10, key) got false and (456,456
+
+deleteAt(3, kv) got true and (7,492)
+
+deleteAt(33, kv) got false and (-888,-888)
+
+Printing 23 of 23 entries
+At index 0 there is (333,59)
+At index 1 there is (9,421)
+At index 2 there is (8,649)
+At index 3 there is (6,386)
+At index 4 there is (5,335)
+At index 5 there is (100,362)
+At index 6 there is (4,793)
+At index 7 there is (3,915)
+At index 8 there is (2,777)
+At index 9 there is (1,886)
+At index 10 there is (0,383)
+At index 11 there is (0,-382)
+At index 12 there is (1,-885)
+At index 13 there is (2,-776)
+At index 14 there is (3,-914)
+At index 15 there is (111,27)
+At index 16 there is (4,-792)
+At index 17 there is (5,-334)
+At index 18 there is (6,-385)
+At index 19 there is (7,-491)
+At index 20 there is (8,-648)
+At index 21 there is (9,-420)
+At index 22 there is (444,763)
+
+deleteFirst(kv) got true and (333,59)
+
+deleteLast(kv) got true and (444,763)
+
+Printing 10 of 21 entries
+At index 0 there is (9,421)
+At index 1 there is (8,649)
+At index 2 there is (6,386)
+At index 3 there is (5,335)
+At index 4 there is (100,362)
+At index 5 there is (4,793)
+At index 6 there is (3,915)
+At index 7 there is (2,777)
+At index 8 there is (1,886)
+At index 9 there is (0,383)
+
+Printing 10 of 21 entries backwards
+At index 20 there is (9,-420)
+At index 19 there is (8,-648)
+At index 18 there is (7,-491)
+At index 17 there is (6,-385)
+At index 16 there is (5,-334)
+At index 15 there is (4,-792)
+At index 14 there is (111,27)
+At index 13 there is (3,-914)
+At index 12 there is (2,-776)
+At index 11 there is (1,-885)
+deleteFIrst(kv) got true and (9,421)
+
+deleteAt(0, kv) got true and (8,649)
+
+deleteFIrst(kv) got true and (6,386)
+
+deleteAt(0, kv) got true and (5,335)
+
+deleteFIrst(kv) got true and (100,362)
+
+deleteAt(0, kv) got true and (4,793)
+
+deleteFIrst(kv) got true and (3,915)
+
+deleteAt(0, kv) got true and (2,777)
+
+deleteFIrst(kv) got true and (1,886)
+
+deleteAt(0, kv) got true and (0,383)
+
+deleteFIrst(kv) got true and (0,-382)
+
+deleteAt(0, kv) got true and (1,-885)
+
+deleteFIrst(kv) got true and (2,-776)
+
+deleteAt(0, kv) got true and (3,-914)
+
+deleteFIrst(kv) got true and (111,27)
+
+deleteAt(0, kv) got true and (4,-792)
+
+deleteFIrst(kv) got true and (5,-334)
+
+deleteAt(0, kv) got true and (6,-385)
+
+deleteFIrst(kv) got true and (7,-491)
+
+deleteAt(0, kv) got true and (8,-648)
+
+deleteFIrst(kv) got true and (9,-420)
+
+deleteAt(0, kv) got false and (-666,-666)
+
+Printing 0 of 0 entries
+
+Printing 0 of 0 entries backwards
+
+Working on the B list now.
+
+deleteAt(0, kv) got true and (100,1100)
+
+Printing 0 of 0 entries
+
+Printing 0 of 0 entries backwards
+Printing 10 of 40 entries
+At index 0 there is (39,1039)
+At index 1 there is (38,1038)
+At index 2 there is (37,1037)
+At index 3 there is (36,1036)
+At index 4 there is (35,1035)
+At index 5 there is (34,1034)
+At index 6 there is (33,1033)
+At index 7 there is (32,1032)
+At index 8 there is (31,1031)
+At index 9 there is (30,1030)
+
+Printing 10 of 40 entries backwards
+At index 39 there is (0,1000)
+At index 38 there is (1,1001)
+At index 37 there is (2,1002)
+At index 36 there is (3,1003)
+At index 35 there is (4,1004)
+At index 34 there is (5,1005)
+At index 33 there is (6,1006)
+At index 32 there is (7,1007)
+At index 31 there is (8,1008)
+At index 30 there is (9,1009)
+
+Printing 5 of 100 entries
+At index 0 there is (0,5000)
+At index 1 there is (1,5001)
+At index 2 there is (2,5002)
+At index 3 there is (3,5003)
+At index 4 there is (4,5004)
+
+Printing 5 of 100 entries backwards
+At index 99 there is (99,5099)
+At index 98 there is (98,5098)
+At index 97 there is (97,5097)
+At index 96 there is (96,5096)
+At index 95 there is (95,5095)

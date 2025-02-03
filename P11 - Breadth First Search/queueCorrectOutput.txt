@@ -1,0 +1,50 @@
+Enq of 0 got: true
+Enq of 1 got: true
+Enq of 2 got: true
+Enq of 3 got: true
+Enq of 4 got: true
+Enq of 5 got: true
+Enq of 6 got: true
+Enq of 7 got: true
+Enq of 8 got: true
+Enq of 9 got: true
+Enq of 10 got: false
+Enq of 11 got: false
+Q size is 10
+Printing 10 of 10 entries
+At index 0 there is (0,0)
+At index 1 there is (1,0)
+At index 2 there is (2,0)
+At index 3 there is (3,0)
+At index 4 there is (4,0)
+At index 5 there is (5,0)
+At index 6 there is (6,0)
+At index 7 there is (7,0)
+At index 8 there is (8,0)
+At index 9 there is (9,0)
+Deq got true and v = 0
+Deq got true and v = 1
+Deq got true and v = 2
+Deq got true and v = 3
+Deq got true and v = 4
+Enq of 24 got: true
+Q size is 6
+Printing 6 of 6 entries
+At index 0 there is (5,0)
+At index 1 there is (6,0)
+At index 2 there is (7,0)
+At index 3 there is (8,0)
+At index 4 there is (9,0)
+At index 5 there is (24,0)
+Deq got true and v = 5
+Deq got true and v = 6
+Deq got true and v = 7
+Deq got true and v = 8
+Deq got true and v = 9
+Q size is 1
+Printing 1 of 1 entries
+At index 0 there is (24,0)
+Deq got true and v = 24
+Deq got false and v = -1
+Q size is 0
+Printing 0 of 0 entries
